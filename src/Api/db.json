@@ -1,0 +1,38 @@
+{
+  "Jaguar": [
+    {
+      "id": 1,
+      "title": "Jaguar XJ",
+      "capacity": 10000,
+      "description": "Jaguar's pinnacle saloon car.The perfect combination of cutting-edge technology,sporting vehicle dynamics, and opulent luxury.",
+      "releaseDate": "2022 march",
+      "location": "United Kingdom",
+      "imageURL": "http://pics.chevy-clan.ru/images/142941.6906.jpg",
+      "developer": "Jaguar Land Rover ",
+      "price": "45000$"
+    },
+    {
+      "title": "Jaguar E-pace",
+      "capacity": 200,
+      "description": "E‑PACE is Jaguar’s first compact SUV. It’s a unique combination of looks, agility and dynamic driving. Also Plug-in Hybrid.COMBINED CO2 EMISSIONS g/km As low as 184",
+      "releaseDate": "2018-09-04",
+      "location": "United Kingdom",
+      "imageURL": "https://foto.carexpert.ru/img/foto1680/jaguar/jagcx17045.jpg",
+      "developer": "Jaguar Land Rover",
+      "price": "38000$",
+      "id": 2
+    },
+    {
+      "title": "Jaguar F-type",
+      "capacity": 2500,
+      "description": "Our luxury performance SUV brings together award-winning design, Jaguar performance and intuitive technologies to make every journey feel extraordinary. Now available as Plug-in Hybrid",
+      "releaseDate": "September 1935; 86 years ago",
+      "location": "United Kingdom",
+      "imageURL": "https://universeofcars.ru/wp-content/uploads/2019/12/2021-jaguar-f-type-bows-s-bolee-ostrym-stilem-i-obnovlennoj-tehnologie-9.jpg",
+      "developer": "Jaguar Land Rover",
+      "price": "40000$",
+      "id": 3
+    }
+    
+  ]
+}
